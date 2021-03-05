@@ -1,0 +1,62 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.navbar-brand img{
+    height:50px
+}
+.categories img{
+width: 80px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+#bg{
+    background-color: #282c34;
+}
+.jhn{
+    color: tomato;
+}
+.versity{
+    color: darkgreen;
+}
+#edu img{
+    height: 80px;
+    width:80px;
+    border-radius: 8px;
+}
+.name-highlight{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg  indianred);
+    background-color: goldenrod ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: floralwhite;
+    font-weight: 700;
+}
+
+.text-white{
+    text-align: center;
+    
+}
+.link-button-two{
+    text-decoration: none;
+    background-image: linear-gradient(45deg  indianred);
+    background-color: goldenrod ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: floralwhite;
+    font-weight: 700;
+    display: flex;
+    margin-left: 40%;
+    margin-right:30%;
+    text-align: center;
+    justify-content: center;
+}
