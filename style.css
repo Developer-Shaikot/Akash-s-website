@@ -25,11 +25,7 @@ width: 80px;
 .versity{
     color: darkgreen;
 }
-#edu img{
-    height: 80px;
-    width:80px;
-    border-radius: 8px;
-}
+
 .name-highlight{
     color: tomato;
 }
@@ -65,5 +61,12 @@ width: 80px;
     height: 214px;
 }
 #skill{
-    background-color: rgb(68, 63, 54)
+    width: 150%;
+    border-radius:5px;
+    background-color: rgb(36, 31, 23)
+}
+.Yt img{
+    margin-left: 30%;
+    height: 30%;
+   width: 30%;
 }
